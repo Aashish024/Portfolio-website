@@ -52,7 +52,7 @@ function ServicesExperience() {
               <p>Years Experience</p>
             </div>
             <div className="portfolio">
-              <h4>2</h4>
+              <h4>4</h4>
               <p>Completed Projects</p>
             </div>
             <div className="portfolio">
