@@ -6,14 +6,14 @@ function Footer() {
       <div className="container">
         <span className="logo">Aashish</span>
         <div className="links">
-          <a href=" ">
+          <a href="https://www.facebook.com/aashish.batra.54?mibextid=ZbWKwL">
             <i className="fab fa-facebook"></i>
           </a>
-          <a href=" ">
-            <i className="fab fa-youtube"></i>
+          <a href="https://www.linkedin.com/in/aashish-batra-12a79524a">
+            <i className="fab fa-linkedin"></i>
           </a>
-          <a href=" ">
-            <i className="fab fa-twitter"></i>
+          <a href="https://instagram.com/aashish__batra?igshid=MzNlNGNkZWQ4Mg==">
+            <i className="fab fa-instagram"></i>
           </a>
         </div>
         <p className="copyright">
