@@ -10,10 +10,11 @@ function Banner() {
           </div>
           <div className="banner-content">
             <h6>Hello, I'm Aashish Batra</h6>
-            <h3>Web Developer</h3>
+            <h3>Software Engineer</h3>
             <p>
             Strong in design and integration with intuitive problem-solving and
-            technical skills like JAVA, C, HTML, CSS, JAVASCRIPT,
+            technical skills like Flutter, Dart, Android Applications, IOS Applications, 
+            Web Applications, JAVA, C, HTML, CSS, JAVASCRIPT,
             GIT and GITHUB. I am capable of translating requirements of the business 
             into technical solutions and I am always ready to learn new skills.
             </p>
