@@ -21,10 +21,11 @@ function Projects() {
       gLink: "https://github.com/Aashish024/Order_Processing_App",
       lLink: "https://github.com/Aashish024/Order_Processing_App",
       disc: `This is an order processing app I have created this app using Flutter(dart).
-      In this app new user can signup new account or can login with an existing one after
-       login users can create there order on create order screen by providing details of 
-       order once order details are implemented users can see there order on home screen 
-       and can check or update there order status as well.`,
+      I have connected a database using firebase so that new user can 
+      signup new account or can login with an existing one after
+      login users can create there order on create order screen by providing details of 
+      order once order details are implemented users can see there order on home screen 
+      and can check or update there order status as well.`,
     },
     {
       title: "Project 3",
